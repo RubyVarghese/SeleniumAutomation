@@ -237,5 +237,9 @@ public class DemoWebShop {
 		Object[][] data= {{"ruby123@yopmail.com","ruby123"},{"ruby91@yopmail.com","ruby123"}};
 		return data;
 	}	
+	@Test
+	public void TC_009_verifyLoginWithParameter() {
+		
+	}
 	
 }
